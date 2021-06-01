@@ -1,7 +1,7 @@
 
 function footer() {
     return (
-        <div>
+        <div className='test-info'>
             Copyright 2021 Ninjalist
         </div>
     )
